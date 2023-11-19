@@ -1,0 +1,1 @@
+cmd_/home/sangjin/working/week10/arm32/seg_driver.ko := arm-linux-gnueabihf-ld -r  -EL -z noexecstack   --build-id=sha1  -T scripts/module.lds -o /home/sangjin/working/week10/arm32/seg_driver.ko /home/sangjin/working/week10/arm32/seg_driver.o /home/sangjin/working/week10/arm32/seg_driver.mod.o;  true

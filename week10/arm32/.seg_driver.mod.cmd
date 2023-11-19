@@ -1,0 +1,1 @@
+cmd_/home/sangjin/working/week10/arm32/seg_driver.mod := printf '%s\n'   seg_driver.o | awk '!x[$$0]++ { print("/home/sangjin/working/week10/arm32/"$$0) }' > /home/sangjin/working/week10/arm32/seg_driver.mod
